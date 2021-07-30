@@ -9,5 +9,5 @@
 #### - WorkSpace Owner (login user of this domain)
 #### - Root Volume Encryption Enabled (True ou False)
 #### - User Volume Encryption Enabled (True ou False)
-#### - Encryption Key Arn (Encryption key ARN to be used to encrypt Root Volume and/or User Volume)
+#### - Encryption Key ARN (Encryption key ARN to be used to encrypt Root Volume and/or User Volume)
 #### - Running Mode (ALWAYS_ON ou AUTO_STOP) 
