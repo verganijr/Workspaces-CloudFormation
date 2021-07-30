@@ -1,6 +1,6 @@
 # Workspaces-CloudFormation
 
-### The main goal of this project is to provision a workspace to a AWS Directory Services user (AD Connector or Managed AD).
+### The main goal of this template is to provision a workspace to a AWS Directory Services user (AD Connector or Managed AD).
 
 #### This template requires to fill the parameters below:
 
