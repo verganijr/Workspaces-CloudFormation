@@ -2,10 +2,12 @@
 
 ### The main goal of this template is to provision a workspace to a AWS Directory Services user (AD Connector or Managed AD).
 
+
 ### Pre-Requirements
 #### - It is mandatory to have AWS Directory Service (AD Connector or Managed AD) configured in AWS account.
 
-#### This template requires to fill the parameters below:
+
+### This template requires to fill the parameters below:
 
 #### - WorkSpace Bundle (Bundle identification)
 #### - WorkSpace Directory (AD Connector or Managed AD DirectoryId)
